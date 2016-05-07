@@ -1,4 +1,4 @@
 [
-{"NAME":"Ratchet and Clank","GNAME":"pic","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"500","DESC":"desc","BRAND":"SONY"},
-{"NAME":"Halo 5","GNAME":"pic","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"500","DESC":"desc","BRAND":"MICROSOFT"}
+{"ID":"sdfsdfhrt","NAME":"Ratchet and Clank","GNAME":"pic","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"500","DESC":"desc","BRAND":"SONY"},
+{"ID":"dbrb6uni","NAME":"Halo 5","GNAME":"pic","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"500","DESC":"desc","BRAND":"MICROSOFT"}
 ]
