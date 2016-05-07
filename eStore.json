@@ -1,4 +1,10 @@
 [
-{"ID":"sdfsdfhrt","NAME":"Ratchet and Clank","GNAME":"pic","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"500","DESC":"desc","BRAND":"SONY"},
-{"ID":"dbrb6uni","NAME":"Halo 5","GNAME":"pic","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"500","DESC":"desc","BRAND":"MICROSOFT"}
+{"ID":"111111111111111","NAME":"Ratchet and Clank","GNAME":"pic","COST":"29.99","MSRP":"49.99","ONHAND":"100","BACKORDER":"50","DESC":"Ratchet and Clank - $49.99","BRAND":"Playstation 4"},
+{"ID":"222222222222222","NAME":"The Division","GNAME":"pic","COST":"49.99","MSRP":"79.99","ONHAND":"200","BACKORDER":"30","DESC":"Tom Clancy's The Division - $79.99","BRAND":"Playstation 4"},
+{"ID":"333333333333333","NAME":"Dark Souls 3","GNAME":"pic","COST":"49.99","MSRP":"79.99","ONHAND":"5","BACKORDER":"500","DESC":"Dark Souls 3 - $79.99","BRAND":"Playstation 4"},
+{"ID":"444444444444444","NAME":"Battleborn","GNAME":"pic","COST":"49.99","MSRP":"79.99","ONHAND":"150","BACKORDER":"0","DESC":"Battleborn - $79.99","BRAND":"Playstation 4"},
+{"ID":"555555555555555","NAME":"MLB The Show 16","GNAME":"pic","COST":"49.99","MSRP":"79.99","ONHAND":"0","BACKORDER":"0","DESC":"MLB The Show 16 - $79.99","BRAND":"Playstation 4"},
+
+{"ID":"222222222222222","NAME":"Halo 5","GNAME":"pic","COST":"49.99","MSRP":"74.99","ONHAND":"100","BACKORDER":"500","DESC":"Halo 5: Guardians - $74.99","BRAND":"Xbox One"},
+{"ID":"222222222222222","NAME":"Halo 5","GNAME":"pic","COST":"49.99","MSRP":"74.99","ONHAND":"100","BACKORDER":"500","DESC":"Halo 5: Guardians - $74.99","BRAND":"Xbox One"},
 ]
