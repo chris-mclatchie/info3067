@@ -1,5 +1,5 @@
 [
-{"ID":"111111111111111","NAME":"Ratchet and Clank","GNAME":"RAC.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"100","BACKORDER":"0","DESC":"Ratchet and Clank - $49.99","BRAND":"Playstation 4"},
+{"ID":"111111111111111","NAME":"Ratchet and Clank","GNAME":"RAC.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"100","BACKORDER":"0","DESC":"Ratchet & Clank is a platformer-shooter video game developed by Insomniac Games. It is a re-imagining of the first game in the series, based on the film adaptation.","BRAND":"Playstation 4"},
 {"ID":"222222222222222","NAME":"The Division","GNAME":"TD.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"200","BACKORDER":"0","DESC":"Tom Clancy's The Division - $79.99","BRAND":"Playstation 4"},
 {"ID":"333333333333333","NAME":"Dark Souls 3","GNAME":"DS3.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"0","BACKORDER":"500","DESC":"Dark Souls 3 - $79.99","BRAND":"Playstation 4"},
 {"ID":"444444444444444","NAME":"Battleborn","GNAME":"BB.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"150","BACKORDER":"0","DESC":"Battleborn - $79.99","BRAND":"Playstation 4"},
