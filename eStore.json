@@ -1,25 +1,25 @@
 [
-{"ID":"111111111111111","NAME":"Ratchet and Clank","GNAME":"RAC.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"100","BACKORDER":"50","DESC":"Ratchet and Clank - $49.99","BRAND":"Playstation 4"},
-{"ID":"222222222222222","NAME":"The Division","GNAME":"TD.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"200","BACKORDER":"30","DESC":"Tom Clancy's The Division - $79.99","BRAND":"Playstation 4"},
-{"ID":"333333333333333","NAME":"Dark Souls 3","GNAME":"DS3.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"5","BACKORDER":"500","DESC":"Dark Souls 3 - $79.99","BRAND":"Playstation 4"},
+{"ID":"111111111111111","NAME":"Ratchet and Clank","GNAME":"RAC.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"100","BACKORDER":"0","DESC":"Ratchet and Clank - $49.99","BRAND":"Playstation 4"},
+{"ID":"222222222222222","NAME":"The Division","GNAME":"TD.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"200","BACKORDER":"0","DESC":"Tom Clancy's The Division - $79.99","BRAND":"Playstation 4"},
+{"ID":"333333333333333","NAME":"Dark Souls 3","GNAME":"DS3.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"0","BACKORDER":"500","DESC":"Dark Souls 3 - $79.99","BRAND":"Playstation 4"},
 {"ID":"444444444444444","NAME":"Battleborn","GNAME":"BB.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"150","BACKORDER":"0","DESC":"Battleborn - $79.99","BRAND":"Playstation 4"},
 {"ID":"555555555555555","NAME":"MLB The Show 16","GNAME":"MLB.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"0","BACKORDER":"0","DESC":"MLB The Show 16 - $79.99","BRAND":"Playstation 4"},
 
-{"ID":"666666666666666","NAME":"Halo 5","GNAME":"H5.jpg","COST":"49.99","MSRP":"74.99","ONHAND":"100","BACKORDER":"100","DESC":"Halo 5: Guardians - $74.99","BRAND":"Xbox One"},
-{"ID":"777777777777777","NAME":"Call of Duty: Black Ops III","GNAME":"CODBLOPS3.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"30","BACKORDER":"50","DESC":"Call of Duty: Black Ops III  - $79.99","BRAND":"Xbox One"},
-{"ID":"888888888888888","NAME":"Minecraft","GNAME":"MD.jpg","COST":"9.99","MSRP":"19.99","ONHAND":"1000","BACKORDER":"10000","DESC":"Minecraft - $19.99","BRAND":"Xbox One"},
+{"ID":"666666666666666","NAME":"Halo 5","GNAME":"H5.jpg","COST":"49.99","MSRP":"74.99","ONHAND":"100","BACKORDER":"0","DESC":"Halo 5: Guardians - $74.99","BRAND":"Xbox One"},
+{"ID":"777777777777777","NAME":"Call of Duty: Black Ops III","GNAME":"CODBLOPS3.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"30","BACKORDER":"0","DESC":"Call of Duty: Black Ops III  - $79.99","BRAND":"Xbox One"},
+{"ID":"888888888888888","NAME":"Minecraft","GNAME":"MD.jpg","COST":"9.99","MSRP":"19.99","ONHAND":"0","BACKORDER":"10000","DESC":"Minecraft - $19.99","BRAND":"Xbox One"},
 {"ID":"999999999999999","NAME":"Star Wars Battlefront","GNAME":"SWBF.jpg","COST":"49.99","MSRP":"39.99","ONHAND":"1000","BACKORDER":"0","DESC":"Star Wars Battlefront - $39.99","BRAND":"Xbox One"},
-{"ID":"000000000000001","NAME":"Fallout 4","GNAME":"F4.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"40","BACKORDER":"60","DESC":"Fallout 4 - $79.99","BRAND":"Xbox One"},
+{"ID":"000000000000001","NAME":"Fallout 4","GNAME":"F4.jpg","COST":"49.99","MSRP":"79.99","ONHAND":"40","BACKORDER":"0","DESC":"Fallout 4 - $79.99","BRAND":"Xbox One"},
 
-{"ID":"101010101010101","NAME":"Star Fox Zero","GNAME":"SF0.jpg","COST":"49.99","MSRP":"74.99","ONHAND":"50","BACKORDER":"10","DESC":"Star Fox Zero - $74.99","BRAND":"Wii U"},
-{"ID":"121212121212121","NAME":"Super Smash Bros.","GNAME":"SSB.jpg","COST":"49.99","MSRP":"64.99","ONHAND":"50","BACKORDER":"500","DESC":"Super Smash Bros. - $64.99","BRAND":"Wii U"},
-{"ID":"131313131313131","NAME":"Pokken Tournament","GNAME":"PT.jpg","COST":"49.99","MSRP":"74.99","ONHAND":"30","BACKORDER":"60","DESC":"Pokken Tournament - $74.99","BRAND":"Wii U"},
-{"ID":"141414141414141","NAME":"Super Mario Maker","GNAME":"SMM.jpg","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"200","DESC":"Super Mario Maker - $69.99","BRAND":"Wii U"},
-{"ID":"151515151515151","NAME":"Mario Kart 8","GNAME":"MK8.jpg","COST":"49.99","MSRP":"64.99","ONHAND":"80","BACKORDER":"30","DESC":"Mario Kart 8 - $64.99","BRAND":"Wii U"},
+{"ID":"101010101010101","NAME":"Star Fox Zero","GNAME":"SF0.jpg","COST":"49.99","MSRP":"74.99","ONHAND":"50","BACKORDER":"0","DESC":"Star Fox Zero - $74.99","BRAND":"Wii U"},
+{"ID":"121212121212121","NAME":"Super Smash Bros.","GNAME":"SSB.jpg","COST":"49.99","MSRP":"64.99","ONHAND":"50","BACKORDER":"0","DESC":"Super Smash Bros. - $64.99","BRAND":"Wii U"},
+{"ID":"131313131313131","NAME":"Pokken Tournament","GNAME":"PT.jpg","COST":"49.99","MSRP":"74.99","ONHAND":"30","BACKORDER":"0","DESC":"Pokken Tournament - $74.99","BRAND":"Wii U"},
+{"ID":"141414141414141","NAME":"Super Mario Maker","GNAME":"SMM.jpg","COST":"49.99","MSRP":"69.99","ONHAND":"100","BACKORDER":"0","DESC":"Super Mario Maker - $69.99","BRAND":"Wii U"},
+{"ID":"151515151515151","NAME":"Mario Kart 8","GNAME":"MK8.jpg","COST":"49.99","MSRP":"64.99","ONHAND":"80","BACKORDER":"0","DESC":"Mario Kart 8 - $64.99","BRAND":"Wii U"},
 
-{"ID":"161616161616161","NAME":"Hyrule Warriors: Legends","GNAME":"HWL.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"100","BACKORDER":"10","DESC":"Hyrule Warriors: Legends - $49.99","BRAND":"3DS"},
-{"ID":"171717171717171","NAME":"Bravely Second: End Layer","GNAME":"BSEL.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"200","BACKORDER":"100","DESC":"Bravely Second: End Layer - $49.99","BRAND":"3DS"},
+{"ID":"161616161616161","NAME":"Hyrule Warriors: Legends","GNAME":"HWL.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"100","BACKORDER":"0","DESC":"Hyrule Warriors: Legends - $49.99","BRAND":"3DS"},
+{"ID":"171717171717171","NAME":"Bravely Second: End Layer","GNAME":"BSEL.jpg","COST":"29.99","MSRP":"49.99","ONHAND":"200","BACKORDER":"0","DESC":"Bravely Second: End Layer - $49.99","BRAND":"3DS"},
 {"ID":"181818181818181","NAME":"Pokemon X","GNAME":"PX.jpg","COST":"29.99","MSRP":"44.99","ONHAND":"30","BACKORDER":"0","DESC":"Pokemon X - $44.99","BRAND":"3DS"},
-{"ID":"191919191919191","NAME":"Final Fantasy Explorers","GNAME":"FFE.jpg","COST":"29.99","MSRP":"44.99","ONHAND":"100","BACKORDER":"50","DESC":"Final Fantasy Explorers - $44.99","BRAND":"3DS"},
-{"ID":"202020202020202","NAME":"Animal Crossing: New Leaf","GNAME":"ACNL.jpg","COST":"19.99","MSRP":"34.99","ONHAND":"50","BACKORDER":"20","DESC":"Animal Crossing: New Leaf - $34.99","BRAND":"3DS"}
+{"ID":"191919191919191","NAME":"Final Fantasy Explorers","GNAME":"FFE.jpg","COST":"29.99","MSRP":"44.99","ONHAND":"100","BACKORDER":"0","DESC":"Final Fantasy Explorers - $44.99","BRAND":"3DS"},
+{"ID":"202020202020202","NAME":"Animal Crossing: New Leaf","GNAME":"ACNL.jpg","COST":"19.99","MSRP":"34.99","ONHAND":"0","BACKORDER":"200","DESC":"Animal Crossing: New Leaf - $34.99","BRAND":"3DS"}
 ]
